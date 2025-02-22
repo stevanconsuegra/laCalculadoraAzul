@@ -1,0 +1,15 @@
+.pantalla{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: flex-end;
+    margin: 1vh;
+    background-color: rgb(41, 82, 121);
+    color: white;
+    padding: 1vh 2vh;
+    font-size: 4vh;
+    border: 0.5vh solid white;
+    border-radius: 2vh;
+    font-family: monospace;
+    min-height: 50px;
+}
